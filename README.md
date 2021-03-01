@@ -5,6 +5,7 @@ Make analysis of vogue's tweeter profile and see how articles was changed after 
 
 # Data:
 About 9000 tweets of Vogue magazine(January - June 2020)
+
 https://twitter.com/voguemagazine
 
 # Audience: 
