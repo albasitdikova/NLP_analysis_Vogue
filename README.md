@@ -19,6 +19,6 @@ This information could be useful for social media, to make better advertising fo
 - Numpy
 - Sklearn
 - Matplotlib
-- Textblob
+- SentimentIntensityAnalyzer 
 - Wordcloud
 - Twint
